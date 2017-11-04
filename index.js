@@ -18,7 +18,7 @@ const two = 2
   return number + two
 
   // Feel free to move things around!
-  
+
 }
 
 var funkyFunction = function() {
